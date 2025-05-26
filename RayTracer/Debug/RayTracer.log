@@ -1,0 +1,171 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  lamp.cpp
+  view_plane.cpp
+  Scene.cpp
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.h(23,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'lamp.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.h(37,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'lamp.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.h(46,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'lamp.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.cpp(73,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.cpp(108,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\view_plane.cpp(41,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\view_plane.cpp(42,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\view_plane.cpp(43,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(11,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(19,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(25,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(48,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(49,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.h(23,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.h(37,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.h(46,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '../scene/Scene.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(47,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(47,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(59,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(70,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(71,46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(71,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(71,61): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(71,61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(71,77): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(71,77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(72,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(72,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(72,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(74,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(74,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp(90,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Light.cpp
+  Ray_Tracer.cpp
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(11,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(19,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(25,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(48,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(49,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Ray_Tracer.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp(14,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp(14,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp(16,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp(27,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp(28,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp(182,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Wall.cpp
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../primitives/Wall.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../primitives/Wall.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(48,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../primitives/Wall.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(49,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../primitives/Wall.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.cpp(47,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.cpp(105,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.cpp(106,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.cpp(107,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+  Sphere.cpp
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\sphere.h(11,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../primitives/Sphere.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\sphere.h(19,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../primitives/Sphere.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\sphere.h(25,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../primitives/Sphere.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp(30,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp(35,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp(81,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp(132,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp(133,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp(134,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Imageio.cpp
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp(11,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp(17,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp(29,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp(31,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp(93,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp(118,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  math3d.cpp
+  Application.cpp
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(11,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(19,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.h(25,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(48,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.h(49,9): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '../Application.cpp')
+  
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(51,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(63,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(79,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(31,8): warning C4101: 'dummy': unreferenced local variable
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(32,10): warning C4101: 'j': unreferenced local variable
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(32,8): warning C4101: 'i': unreferenced local variable
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(121,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(101,9): warning C4101: 'imageType': unreferenced local variable
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(102,8): warning C4101: 'dummy': unreferenced local variable
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp(101,22): warning C4101: 'str': unreferenced local variable
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  RayTracer.vcxproj -> C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Debug\RayTracer.exe

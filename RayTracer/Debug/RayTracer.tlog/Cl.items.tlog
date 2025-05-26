@@ -1,0 +1,12 @@
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Application.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Application.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\common\math3d.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\math3d.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Imageio\Imageio.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Imageio.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Main.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Main.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Sphere.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Sphere.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Triangle.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Triangle.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\primitives\Wall.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Wall.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\Ray_Tracer.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Ray_Tracer.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Light.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Light.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\Scene.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\Scene.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\scene\view_plane.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\view_plane.obj
+C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\lamp.cpp;C:\Users\aravi\OneDrive\Desktop\Project-3\Project-3\RayTracer\Debug\lamp.obj

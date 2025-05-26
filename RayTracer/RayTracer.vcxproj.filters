@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{b1671ec2-cf38-4e7a-a449-b6bcc1942057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="primitives">
+      <UniqueIdentifier>{d6dbea6c-e1b7-4cf5-a34c-d1daeaeb1ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scene">
+      <UniqueIdentifier>{b131ed1c-d748-49cf-ab3a-d0422d71c61a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imageio">
+      <UniqueIdentifier>{e90bd375-58db-4fb3-9684-dcba06f0a106}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Ray_Tracer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\math3d.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\primitives\Sphere.cpp">
+      <Filter>primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\primitives\Triangle.cpp">
+      <Filter>primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\primitives\Wall.cpp">
+      <Filter>primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\scene\Light.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\scene\Scene.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\scene\view_plane.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Imageio\Imageio.cpp">
+      <Filter>imageio</Filter>
+    </ClCompile>
+    <ClCompile Include="lamp.cpp">
+      <Filter>primitives</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Ray_Tracer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\image_volume.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\math3d.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\primitives\Basic_Primitive.h">
+      <Filter>primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\primitives\Sphere.h">
+      <Filter>primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\primitives\Triangle.h">
+      <Filter>primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\primitives\Wall.h">
+      <Filter>primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\scene\Light.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\scene\Scene.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\scene\view_plane.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imageio\Imageio.h">
+      <Filter>imageio</Filter>
+    </ClInclude>
+    <ClInclude Include="lamp.h">
+      <Filter>primitives</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
